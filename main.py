@@ -112,7 +112,7 @@ with mp_hands.Hands(
         result = np.where(mask > 0, canvas, result)
 
    
-        cv2.imshow('goon project', result)
+        cv2.imshow('proooject', result)
 
     
         key = cv2.waitKey(5) & 0xFF
