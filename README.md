@@ -1,4 +1,4 @@
-# handtracker
+# DrawIt
 
 # Hand Tracking Drawing App
 
@@ -47,7 +47,7 @@ A window will open displaying the camera feed. Once your hand is detected, pinch
 
 ## File structure
 
-    hand-tracking-drawing/
+    your-folder/
     ├── main.py
     ├── requirements.txt
     └── README.md
